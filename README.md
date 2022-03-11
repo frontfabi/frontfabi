@@ -2,7 +2,7 @@
 
 # 👩🏾‍💻 &nbsp;Sobre mim
 
-Sou front-end e UX designer. Atualmente, trabalho no Zé Delivery. Tenho paixão por compartilhamento de conhecimento, principalmente com relação a interfaces. Minha missão é avançar na carreira, podendo trazer meus iguais também!
+Sou front-end e UX designer. Atualmente, trabalho na Creditas. Tenho paixão por compartilhamento de conhecimento, principalmente com relação a interfaces. Minha missão é avançar na carreira, podendo trazer meus iguais também!
 
 
 # 🛠 &nbsp;Caixa de ferramentas
