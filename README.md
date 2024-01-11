@@ -2,7 +2,7 @@
 
 # 👩🏾‍💻 &nbsp;Sobre mim
 
-Graduada e pós-graduada em Marketing, sou front-end e UX designer. Atualmente, trabalho na Creditas. Tenho paixão por compartilhamento de conhecimento, principalmente com relação a interfaces. Minha missão é avançar na carreira, podendo trazer meus iguais também!
+Graduada e pós-graduada em Marketing, sou front-end e UX designer. Atualmente, trabalho no Grupo Boticário. Tenho paixão por compartilhamento de conhecimento, principalmente com relação a interfaces. Minha missão é avançar na carreira, podendo trazer meus iguais também!
 
 
 # 🛠 &nbsp;Caixa de ferramentas
